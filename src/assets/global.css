@@ -1,0 +1,31 @@
+* {
+    
+}
+.btn-primary {
+    background: #FF7271;
+    border-color: #FF7271;
+}
+.btn:hover {
+    color: #fff;
+    background-color: #FF7271;
+    border-color: #FF7271;
+}
+.btn:focus {
+    color: #fff;
+    background-color: #FF7271;
+    border-color: #FF7271;
+}
+.btn:active {
+    color: #fff;
+    background-color: #FF7271;
+    border-color: #FF7271;
+}
+.card {
+    width: 20rem;
+    border: none;
+    padding: 10px 6px 0 6px;
+    height: 100%;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 2px 10px 0 #ededed;
+}
